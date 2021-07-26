@@ -77,8 +77,6 @@ content:
     content:
       - layout: left
           title: University of Toronto
-          # link: boringcompany.com
-          # link_text: boringcompany.com
           sub_title: Teaching Assistant
           caption: January 2021 - April 2021
           quote: >
@@ -86,11 +84,10 @@ content:
           description: | # this will include new lines to allow paragraphs
               During my time at UofT as a TA for course titled *Introduction to Computer Science*, I facilitated a discussion tutorial, held weekly office hours, grade assignments and tests. I led a class of roughly 30 students.
       
-      
+    layout: list # Type of content section (list/text)
+    content:  
       - layout: left
         title: University of Toronto
-        # link: boringcompany.com
-        # link_text: boringcompany.com
         sub_title: Teaching Assistant
         caption: January 2021 - April 2021
         quote: >
