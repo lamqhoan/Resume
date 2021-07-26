@@ -76,6 +76,16 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+          title: University of Toronto
+          # link: boringcompany.com
+          # link_text: boringcompany.com
+          sub_title: Teaching Assistant
+          caption: January 2021 - April 2021
+          quote: >
+
+          description: | # this will include new lines to allow paragraphs
+              During my time at UofT as a TA for course titled *Introduction to Computer Science*, I facilitated a discussion tutorial, held weekly office hours, grade assignments and tests. I led a class of roughly 30 students.
+      - layout: left
         title: University of Toronto
         # link: boringcompany.com
         # link_text: boringcompany.com
@@ -84,7 +94,7 @@ content:
         quote: >
           
         description: | # this will include new lines to allow paragraphs
-            During my time at UofT as a TA for course titled *Introduction to Computer Science*, I facilitated a discussion tutorial, held weekly office hours, grade assignments and tests. I led a class of roughly 30 students
+            During my time at UofT as a TA for course titled *Introduction to Computer Science*, I facilitated a discussion tutorial, held weekly office hours, grade assignments and tests. I led a class of roughly 30 students.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -99,6 +109,7 @@ content:
           During my time at UofT I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
           I spent a lot of my free time as a general member of *University of Toronto Vietnamese Student Association*.
+          CGPA: 3.21
 
   - title: A Little More About Me
     layout: text
