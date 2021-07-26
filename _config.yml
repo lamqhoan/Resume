@@ -85,6 +85,8 @@ content:
 
           description: | # this will include new lines to allow paragraphs
               During my time at UofT as a TA for course titled *Introduction to Computer Science*, I facilitated a discussion tutorial, held weekly office hours, grade assignments and tests. I led a class of roughly 30 students.
+      
+      
       - layout: left
         title: University of Toronto
         # link: boringcompany.com
@@ -109,7 +111,7 @@ content:
           During my time at UofT I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
           I spent a lot of my free time as a general member of *University of Toronto Vietnamese Student Association*.
-          CGPA: 3.21
+          CGPA: 3.21.
 
   - title: A Little More About Me
     layout: text
