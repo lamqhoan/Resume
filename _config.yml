@@ -70,8 +70,8 @@ content:
         quote: >
           This is a additional way for student to earn extra money while moving between classes
         description: | # this will include new lines to allow paragraphs
-          I started this project as part of a course and a way to learn <mark>React</mark> and we made it to become a fully functional web app. I have learned many skills through this (more specifically coding skills) and been I'm very proud of having this in my portfolio.
-
+          I started this project as part of a course and a way to learn React and we made it to become a fully functional web app. I have learned many skills through this (more specifically coding skills) and I'm very proud of having this in my portfolio.
+          
       - layout: top-middle
         title: PharmDx Care 
         link: github.com/PharmDx-care-CS301
@@ -86,8 +86,7 @@ content:
         quote: >
           This is a bridge between pharmacies and patients to reduce heavy loads on hospitals
         description: | # this will include new lines to allow paragraphs
-          I started this project as part of a course and to acquire skills for software engineerin. I have learned many skills along the way both technical skills, communication skills and teamworking skills
-
+          I started this project as part of a course and to acquire skills for software engineering. I have learned many skills along the way both technical skills, communication skills and teamworking skills
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -113,8 +112,8 @@ content:
           sub_title: Teaching Assistant
           caption: January 2021 - April 2021
           description: | # this will include new lines to allow paragraphs
-              During my time at UofT as a TA for course titled *Introduction to Computer Science*, I facilitated a discussion tutorial, held weekly office hours, grade assignments and tests. I led a class of roughly 30 students.
-      
+              During my time at UofT as a TA for a course titled Introduction to Computer Science, I facilitated a discussion tutorial, held weekly office hours, grade assignments and tests. I led a class of roughly 30 students.
+              
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -125,9 +124,9 @@ content:
         quote: >
           Founded in 1827, the University of Toronto has evolved into Canada’s leading institution of learning, discovery and knowledge creation. We are proud to be one of the world’s top research-intensive universities, driven to invent and innovate.
         description: | # this will include new lines to allow paragraphs
-          During my time at UofT I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          During my time at UofT I learnt most of my key skills that I have taken through my career such as teamwork and working to tight deadlines. I thoroughly enjoyed my time at university and learnt a lot about a healthy work life balance.
+          I spent a lot of my free time as a general member of the University of Toronto Vietnamese Student Association*.
 
-          I spent a lot of my free time as a general member of *University of Toronto Vietnamese Student Association*.
           CGPA: 3.21.
 
   - title: A Little More About Me
