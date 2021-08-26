@@ -94,7 +94,7 @@ content:
     content:
         - layout: left
           title: SOTI Inc
-          sub_title: Software Developer
+          sub_title: Software Engineer (Intern)
           caption: May 2020 - August 2021
           quote: >
             SOTI is a proven leader at creating innovative solutions that reduce the cost and complexity of business-critical mobility and the IoT. 
@@ -112,8 +112,6 @@ content:
           title: University of Toronto
           sub_title: Teaching Assistant
           caption: January 2021 - April 2021
-          quote: >
-
           description: | # this will include new lines to allow paragraphs
               During my time at UofT as a TA for course titled *Introduction to Computer Science*, I facilitated a discussion tutorial, held weekly office hours, grade assignments and tests. I led a class of roughly 30 students.
       
