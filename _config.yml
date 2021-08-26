@@ -50,39 +50,63 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Felix and I'm a student at the University of Toronto, currently pursuing a BSc. in Computer Science with a focus in Artificia Intelligence. Apart from pursuing my academic goals, I also have experience making web apps. I have interned at a company gaining teamwork and communication skills.
 
-  I am most skilled in: <mark>Python</mark>, <mark>C</mark>, <mark>Java</mark>, <mark>JS/TS</mark>, <mark>React/Angular</mark>, <mark>SQL</mark>
+  I am most skilled in: <mark>Python</mark>, <mark>C</mark>, <mark>Java</mark>, <mark>JS/TS</mark>, <mark>React/Angular</mark>, <mark>SQL</mark>, <mark>Data Structure</mark>, <mark>Flask</mark>, <mark>Android Studio</mark>
 
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
+        title: Uber Eats for UofT Students
+        link: github.com/lamqhoan/team15
         # link_text: Project Website
         additional_links:
           - title:  sproogen/modern-resume-theme
             icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+            url: github.com/lamqhoan/team15
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          This is a additional way for student to earn extra money while moving between classes
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          I started this project as part of a course and a way to learn <mark>React</mark> and we made it to become a fully functional web app. I have learned many skills through this (more specifically coding skills) and been I'm very proud of having this in my portfolio.
+
+      - layout: top-middle
+        title: PharmDx Care 
+        link: github.com/PharmDx-care-CS301
+        # link_text: Project Website
+        additional_links:
+          - title:  sproogen/modern-resume-theme
+            icon: fab fa-github
+            url: github.com/PharmDx-care-CS301
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          This is a bridge between pharmacies and patients to reduce heavy loads on hospitals
+        description: | # this will include new lines to allow paragraphs
+          I started this project as part of a course and to acquire skills for software engineerin. I have learned many skills along the way both technical skills, communication skills and teamworking skills
+
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
         - layout: left
-          title: University of Toronto
-          sub_title: Teaching Assistant
-          caption: January 2021 - April 2021
+          title: SOTI Inc
+          sub_title: Software Developer
+          caption: May 2020 - August 2021
           quote: >
-
+            SOTI is a proven leader at creating innovative solutions that reduce the cost and complexity of business-critical mobility and the IoT. 
           description: | # this will include new lines to allow paragraphs
-              During my time at UofT as a TA for course titled *Introduction to Computer Science*, I facilitated a discussion tutorial, held weekly office hours, grade assignments and tests. I led a class of roughly 30 students.
+              During my time at SOTI as a Software Developer, I was able to do the following
+              - Develop innovative solutions to tackle big industry problems.
+              - Write well designed, scalable, reliable, testable and reusable code by using best software development practices, clean code and solid principles.
+              - Provide technical guidance on the research and development of new products and services.
+              - Detect, report, investigate, and fix product defects.
+              - Automation, including writing unit and integration tests.
+              - Optimize and apply best practices.
+              - Maintain high standards of quality for code, technical documentation, and deliverables.
         
         - layout: left
           title: University of Toronto
@@ -115,10 +139,6 @@ content:
       - Hitting the gym
       - Gaming
       - Soccer
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
